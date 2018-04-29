@@ -1,0 +1,78 @@
+<!--BA_Diagnose_Interface-->
+<Request>
+	<MessageHeader>
+		<UpLoadDate></UpLoadDate>
+	</MessageHeader>
+	<DataContext>
+		<KeyNo></KeyNo>
+		<ZYNum></ZYNum>
+		<DiagnoseCode></DiagnoseCode>
+		<DiagnoseName></DiagnoseName>
+		<State></state>
+		<CaseCode></CaseCode>
+		<CaseName></CaseName>
+		<Mcode></Mcode>
+		<Mname></Mname>
+		<TJM></TJM>
+		<DiagNoseName_YS></DiagNoseName_YS>
+		<Condition></Condition>
+		<Order_YS></Order_YS>
+		<Order_BA></Order_BA>
+		<OrderNum_YS></OrderNum_YS>
+		<OrderNum_BA></OrderNum_YS>
+		<DiagnoseCode_YS></DiagnoseCode_YS>
+		<CaseCode_YS></CaseCode_YS>
+		<CaseName_YS></CaseName_YS>
+		<Mcode_YS></Mcode_YS>
+		<Mcode_Name></Mcode_Name>
+	</DataContext
+</Request>
+
+<!--BA_Operation_Interface-->
+<Request>
+	<MessageHeader>
+		<UpLoadDate></UpLoadDate>
+	</MessageHeader>
+	<DataContext>
+		<OperationCode></OperationCode>
+		<OperationName></OperationName>
+		<OperationDate></OperationDate>
+		<OperationOperName></OperationOperName>
+		<OperationHelper></OperationHelper>
+		<AnaesthesiaCode></AnaesthesiaCode>
+		<AnaesthesiaName></AnaesthesiaName>
+		<CutCode></CutCode>
+		<CutName></CutName>
+		<AnaesthesiaDoctor></AnaesthesiaDoctor>
+		<OperationName_YS></OperationName_YS>
+		<OperationLevel></OperationLevel>
+		<OperationHelper2></OperationHelper2>
+		<F1></F1>
+		<F2></F2>
+		<F3></F3>
+		<F4></F4>
+		<F4_1></F4_1>
+		<F4_2></F4_2>
+		<F5></F5>
+		<F6></F6>
+		<F7></F7>
+		<F8></F8>
+		<F9></F9>
+		<F10></F10>
+		<F11></F11>
+		<F12></F12>
+		<F13></F13>
+		<F14></F14>
+		<F15></F15>
+		<F16></F16>
+		<F17></F17>
+		<OperationPositionCode></OperationPositionCode>
+		<OperationPositionName></OperationPositionName>
+		<OperationContinuousTime></OperationContinuousTime>
+		<Order_YS></Order_YS>
+		<Order_BA></Order_BA>
+		<OrderNum_YS></OrderNum_YS>
+		<OrderNum_BA></OrderNum_BA>
+		<OperationCode_YS></OperationCode_YS>
+	</DataContext>
+</Request>
