@@ -25,8 +25,16 @@
 		<CaseName_YS></CaseName_YS>
 		<Mcode_YS></Mcode_YS>
 		<Mcode_Name></Mcode_Name>
-	</DataContext
+	</DataContext>
 </Request>
+
+<Response>
+     <MessageHeader>
+		<code>0</code>
+		<desc>上传成功10条</desc>
+	</MessageHeader>
+</Response>
+
 
 <!--BA_Operation_Interface-->
 <Request>
@@ -76,3 +84,4 @@
 		<OperationCode_YS></OperationCode_YS>
 	</DataContext>
 </Request>
+
